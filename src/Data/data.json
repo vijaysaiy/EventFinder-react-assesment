@@ -1,0 +1,111 @@
+{
+  "featured": [
+    {
+      "id": "1",
+      "name": "CHOP SHOP:Comedy Show",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1667176-725948-34.jpg?v=3",
+      "place": "The Fringe Bar,Wellington",
+      "time": "Sun 12 Dec 7:30pm"
+    },
+    {
+      "id": "2",
+      "name": "BOI Music Festival",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1657908-722004-34.jpg",
+      "place": "Waitangi Grounds, Bay of Islands",
+      "time": "Sat 29 Jan 2022 3:00pm"
+    },
+    {
+      "id": "3",
+      "name": "Deluxe Candle Making",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1658900-722548-34.jpg",
+      "place": "The Minimal Co., Wellington",
+      "time": "Thu 9 Dec 5:45pm"
+    },
+    {
+      "id": "4",
+      "name": "Pollywood Pasifika Film 192021",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1668473-722135-34.png?v=2",
+      "place": "Auckland Art Gallery, Auckland",
+      "time": " Sun 5 Dec 2:00pm"
+    },
+    {
+      "id": "5",
+      "name": "Love, Linda: The Return Season",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1609781-701551-34.jpg?v=2",
+      "place": "Gryphon Theatre, Wellington",
+      "time": "Tomorrow 8:00pm "
+    },
+    {
+      "id": "6",
+      "name": "Gibbs Farm Sculpture Park Visit ",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1630966-709976-34.jpg?v=2",
+      "place": "Gibbs Farm, Makarau, Auckland",
+      "time": "Thu 17 Mar 10:00am"
+    },
+    {
+      "id": "7",
+      "name": "Wairarapa Balloon Festival 2022 - Night Glow",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1668357-726495-34.png?v=2",
+      "place": "lareville Showgrounds, Wairarapa",
+      "time": "Sat 16 Apr 4:00pm "
+    },
+    {
+      "id": "8",
+      "name": "Woodlands Camping 2021",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1552489-677806-34.jpg?v=2",
+      "place": "Woodlands Camping, Gisborne, Hawke's Bay / Gisborne",
+      "time": "Thu 14 Apr 12:00pm"
+    },
+    {
+      "id": "9",
+      "name": "Gibbs Farm Sculpture Park Visit",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1616735-704596-34.jpg",
+      "place": "Gibbs Farm, Makarau, Auckland",
+      "time": "Fri 18 Mar 10:00am"
+    }
+  ],
+  "all": [
+    {
+      "id": "13",
+      "name": "Pollywood Pasifika Film 192021",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1668473-722135-34.png?v=2",
+      "place": "Auckland Art Gallery, Auckland",
+      "time": " Sun 5 Dec 2:00am"
+    },
+    {
+      "id": "14",
+      "name": "Love, Linda: The Return Season",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1609781-701551-34.jpg?v=2",
+      "place": "Gryphon Theatre, Wellington",
+      "time": "Tomorrow 8:00pm "
+    },
+    {
+      "id": "15",
+      "name": "Gibbs Farm Sculpture Park Visit ",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1630966-709976-34.jpg?v=2",
+      "place": "Gibbs Farm, Makarau, Auckland",
+      "time": "Thu 17 Mar 10:00am"
+    },
+    {
+      "id": "16",
+      "name": "Wairarapa Balloon Festival 2022 - Night Glow",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1668357-726495-34.png?v=2",
+      "place": "lareville Showgrounds, Wairarapa",
+      "time": "Sat 16 Apr 4:00pm "
+    },
+    {
+      "id": "17",
+      "name": "Woodlands Camping 2021",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1552489-677806-34.jpg?v=2",
+      "place": "Woodlands Camping, Gisborne, Hawke's Bay / Gisborne",
+      "time": "Thu 14 Apr 12:00pm"
+    },
+    {
+      "id": "18",
+      "name": "Gibbs Farm Sculpture Park Visit",
+      "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1616735-704596-34.jpg",
+      "place": "Gibbs Farm, Makarau, Auckland",
+      "time": "Fri 18 Mar 10:00am"
+    }
+  ]
+}
