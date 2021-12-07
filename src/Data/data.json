@@ -106,6 +106,13 @@
       "imgSrc": "https://cdn.eventfinda.co.nz/uploads/events/transformed/1616735-704596-34.jpg",
       "place": "Gibbs Farm, Makarau, Auckland",
       "time": "Fri 18 Mar 10:00am"
+    },
+    {
+      "name": "Bangalore Open Air 2022",
+      "imgSrc": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAzIERlYw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00118738-dyrvrypzgb-portrait.jpg",
+      "place": "Virtual",
+      "date": "Sat Dec 11",
+      "id": 0.019660970011818435
     }
   ]
 }

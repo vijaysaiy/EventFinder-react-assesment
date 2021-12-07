@@ -18,7 +18,7 @@ function EditEvent(item) {
 
   return (
     <>
-      <h3 className="text-center my-5">Create Event</h3>
+      <h3 className="text-center my-5">Edit Event</h3>
       <div className="container card my-5" style={{ maxWidth: "50vw" }}>
         <form>
           <div class="mb-3">

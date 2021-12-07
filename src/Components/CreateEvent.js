@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { addEvent } from "../server-api/apiCalls";
 
 function CreateEvent() {
-  let initialValues = { name: "", url: "", place: "", date: "" };
+  let initialValues = { name: "", imgSrc: "", place: "", date: "" };
   const [details, setDetails] = useState(initialValues);
   function handleChange(event){
       let name = event.target.name;
@@ -12,6 +12,7 @@ function CreateEvent() {
   }
   function handleSubmit(){
     addEvent(details);
+    alert("Event created successfully")
   }
   return (
     <>
@@ -37,8 +38,8 @@ function CreateEvent() {
               type="text"
               class="form-control"
               placeholder="Enter Image url"
-              name ="url"
-              value={details.url}
+              name ="imgSrc"
+              value={details.imgSrc}
               onChange={handleChange}
             />
           </div>

@@ -18,7 +18,7 @@ function Events() {
           </buttion>
         </div>
       </div>
-      {screen === "list" && (<EventList setScreen={setScreen} setItem={setItem} />)}
+      {screen === "list" && <EventList setScreen={setScreen} setItem={setItem} />}
       {screen === "edit" && <EditEvent item={item} />}
       {screen === "add" && <CreateEvent />}
     </>
